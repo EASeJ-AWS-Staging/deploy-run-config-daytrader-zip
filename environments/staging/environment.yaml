@@ -1,5 +1,5 @@
 #
-# Configuration for environment - comment 1
+# Configuration for environment - comment 2 - triggering pipeline
 #
 version: 1.0
 app:
